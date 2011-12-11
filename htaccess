@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Enter username and password"
+AuthUserFile  "/volume1/@appstore/Synod/.htpasswd"
+require valid-user
